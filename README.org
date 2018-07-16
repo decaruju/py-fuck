@@ -1,0 +1,12 @@
+* On the turing completeness of Python 3
+  Certain rumors have been brewing about the fact that Python 3 is not Turing complete.
+  I wanted to prove that that rumors are false.
+
+  To prove that a computing system is Turing complete, one needs to show that is can emulate any Turing machine or any Turing complete computing system.
+
+  My first goal was to rewrite Microsoft Powerpoint in Python 3, as it was shown that Powerpoint is Turing complete.
+  This proved to be too great a task.
+
+  I chose a more simple computing system, Brainfuck.
+  This is a brainfuck interpreter written in Python 3, which proves its Turing completeness.
+
